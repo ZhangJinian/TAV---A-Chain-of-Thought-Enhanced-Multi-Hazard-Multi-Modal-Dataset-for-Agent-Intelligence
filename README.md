@@ -1,4 +1,4 @@
-# TAV---A-Chain-of-Thought-Enhanced-Multi-Hazard-Multi-Modal-Dataset-for-Agent-Intelligence
+# TAV: A-Chain-of-Thought-Enhanced-Multi-Hazard-Multi-Modal-Dataset-for-Agent-Intelligence
 Most existing remote sensing datasets for disaster assessment primarily contain imagery data, lacking accompanying linguistic instructions or semantic annotations. Even among the few datasets that include textual labels, the format is often limited to simple “Question–Answer (Q–V)” pairs, which fail to capture the reasoning and decision-making mechanisms involved in task execution.
 
 To address this limitation and endow models with autonomous reasoning and external tool-calling capabilities, this project constructs the Chain-of-Thought Enhanced Multi-Hazard and Multi-Modal TAV (Thought–Action–Value) Dataset for Intelligent Agents, based on multi-source remote sensing data and existing vision-language model (VLM) benchmarks.
