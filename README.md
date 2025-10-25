@@ -29,3 +29,8 @@ The dataset consists of two main components: imagery data and fine-tuning instru
 
 
 <img width="1280" height="470" alt="image" src="https://github.com/user-attachments/assets/e7036b77-32b5-42ba-b0d8-755045e5c16d" />
+
+BaiDu NetDisk：
+通过网盘分享的文件：TAV.zip
+链接: https://pan.baidu.com/s/11gg5dBp3vr5hJTz2u18_9g?pwd=k9m2 提取码: k9m2 
+--来自百度网盘超级会员v1的分享
